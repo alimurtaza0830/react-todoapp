@@ -1,0 +1,8 @@
+@import './styles/index.scss';
+
+.cursor {
+  cursor: pointer;
+}
+.cursor:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
