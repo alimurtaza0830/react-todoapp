@@ -11,7 +11,7 @@ class Input extends Component {
 						<input 
 							type="text" 
 							className="form-control text-capitalize"
-							placeholder="Add a todo Item"
+							placeholder="Add Something"
 							value={item}
 							onChange={handleChange} 
 						/>
